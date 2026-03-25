@@ -32,7 +32,7 @@ La mariposa monarca pasa por **cuatro etapas**:
 3. **Crisálida** – Transformación completa en *aproximadamente 10 días*.
 4. **Adulto** – Vive entre *2 y 6 semanas*, excepto la *generación migratoria* que vive hasta *8 meses*.
 
-![Ciclo de vida](Ciclo de vida.jpg)
+![Ciclo de vida](Ciclo de vida. jpg)
 *Huevo, oruga, crisálida y adulto*
 
 ---
