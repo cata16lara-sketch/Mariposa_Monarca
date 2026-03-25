@@ -18,8 +18,8 @@ El foco principal está en su increíble **migración**, un fenómeno único en 
 
 > *"Ninguna mariposa monarca vive para hacer el viaje de ida y vuelta. Cada generación hereda la ruta sin haberla recorrido antes."*
 
-![Monarca en migración](https://example.com/monarca-migracion.jpg)
-*Ejemplares en pleno vuelo migratorio*
+![Monarca en migración](ruta-migratoria-mariposa-monarca.jpg)
+*Migración de la mariposa monarca*
 
 ---
 
@@ -32,7 +32,7 @@ La mariposa monarca pasa por **cuatro etapas**:
 3. **Crisálida** – Transformación completa en *aproximadamente 10 días*.
 4. **Adulto** – Vive entre *2 y 6 semanas*, excepto la *generación migratoria* que vive hasta *8 meses*.
 
-![Ciclo de vida](https://example.com/ciclo-monarca.jpg)
+![Ciclo de vida](Ciclo de vida.jpg)
 *Huevo, oruga, crisálida y adulto*
 
 ---
@@ -60,6 +60,6 @@ La migración sigue tres rutas principales:
 - Plantar *algodoncillo* y *flores nativas*.
 - Evitar el uso de *pesticidas*.
 - Apoyar *reservas de la biosfera* como la de *Mariposa Monarca en México*.
-
+![Algodoncillo](algodoncillo.jpg)
 ---
 
