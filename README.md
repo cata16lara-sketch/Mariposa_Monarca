@@ -5,7 +5,7 @@ El foco principal está en su increíble **migración**, un fenómeno único en 
 
 ---
 
-## La Migración: Un Viaje Épico
+## La Migración
 
 *La migración de la mariposa monarca es considerada una de las maravillas del mundo natural.*
 
@@ -17,6 +17,15 @@ El foco principal está en su increíble **migración**, un fenómeno único en 
 - **Orientación:** Utilizan el *sol*, el *reloj circadiano* y el *campo magnético terrestre*.
 
 > *"Ninguna mariposa monarca vive para hacer el viaje de ida y vuelta. Cada generación hereda la ruta sin haberla recorrido antes."*
+ ## Ruta Migratoria
+
+La migración sigue tres rutas principales:
+
+| Ruta | Región | Destino |
+|------|--------|--------|
+| **Ruta del Este** | Este de EE.UU. y Canadá | *Michoacán, México* |
+| **Ruta del Oeste** | Oeste de EE.UU. | *Costa de California* |
+| **Ruta Costera** | Noreste de EE.UU. | *Golfo de México* 
 
 ![Monarca en migración](ruta-migratoria-mariposa-monarca.jpg)
 *Migración de la mariposa monarca*
@@ -34,18 +43,6 @@ La mariposa monarca pasa por **cuatro etapas**:
 
 ![Ciclo de vida](Ciclo-de-vida.jpg)
 *Huevo, oruga, crisálida y adulto*
-
----
-
-## Ruta Migratoria
-
-La migración sigue tres rutas principales:
-
-| Ruta | Región | Destino |
-|------|--------|--------|
-| **Ruta del Este** | Este de EE.UU. y Canadá | *Michoacán, México* |
-| **Ruta del Oeste** | Oeste de EE.UU. | *Costa de California* |
-| **Ruta Costera** | Noreste de EE.UU. | *Golfo de México* |
 
 ---
 
